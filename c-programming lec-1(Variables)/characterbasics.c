@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    char ch='a'; printf("%c",ch);
+    char x='$'; printf("\n%c",x);
+    
+    
+}
