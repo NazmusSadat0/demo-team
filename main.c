@@ -29,5 +29,8 @@ int main()
         printf("THE NUMBER IS NOT FOUND");
     else
         printf("THE NUMBER IS IN %d INDEX",result);
+
+        printf("\n \tAdil here");
+        
     return 0;
 }
